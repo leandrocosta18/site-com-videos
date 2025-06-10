@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(32, 73, 51);
+    text-align: center;
+}
+
+h1{
+    color: rgb(232, 236, 239);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: solid;
+}
+
+iframe{
+    width: 560px;
+    height: 350px;
+}
+
+a{
+    color: rgb(232, 236, 239);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:solid;
+}
+
+
+img{
+    width: 30px;
+    
+}
